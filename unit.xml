@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.171" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-07-20T13:04:32" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Accrodion test" timestamp="2019-07-20T13:04:32" tests="8" file="/Users/gopal.jayaraman/learning/hackerrank/accordion/test/test.js" failures="0" time="1.171">
+    <testcase name="Accrodion test Should show the 1st item expanded by default" time="0.021" classname="Should show the 1st item expanded by default">
+    </testcase>
+    <testcase name="Accrodion test Clicking on expand icon or title or anywhere in the title section should expand the item" time="0.196" classname="Clicking on expand icon or title or anywhere in the title section should expand the item">
+    </testcase>
+    <testcase name="Accrodion test when an item was already expanded should show the collapse icon in the right corner" time="0.082" classname="when an item was already expanded should show the collapse icon in the right corner">
+    </testcase>
+    <testcase name="Accrodion test when an item was already collapsed state should show the expand icon in the right corner" time="0.14" classname="when an item was already collapsed state should show the expand icon in the right corner">
+    </testcase>
+    <testcase name="Accrodion test Clicking on collpase icon or title or anywhere in the title section should collapse the item" time="0.105" classname="Clicking on collpase icon or title or anywhere in the title section should collapse the item">
+    </testcase>
+    <testcase name="Accrodion test when an item was already expanded state and clicking same item should collapse the same item" time="0.156" classname="when an item was already expanded state and clicking same item should collapse the same item">
+    </testcase>
+    <testcase name="Accrodion test When multi-select enabled, allowed to expand more than one items" time="0.213" classname="When multi-select enabled, allowed to expand more than one items">
+    </testcase>
+    <testcase name="Accrodion test When user already expand more than one items and removing multiselect then expanding any item should collapse all others already opend" time="0.258" classname="When user already expand more than one items and removing multiselect then expanding any item should collapse all others already opend">
+    </testcase>
+  </testsuite>
+</testsuites>
